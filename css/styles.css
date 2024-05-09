@@ -69,19 +69,19 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;*/
-}
+    color: #2e2f42;
+}*/
 .address-mail{
+    letter-spacing: 0.02em;
     position: absolute;
     margin-left: 940px;
     margin-top: 24px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
     color: #434455;
 }
-.address-tel{
+/*.address-tel{
     position: absolute;
     margin-left: 1133px;
     margin-top: 24px;
@@ -90,10 +90,9 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
+}*/
 .address-mail:hover, .address-tel:hover,
-.navigation-studio:hover, .navigation-portfolio:hover,
-.navigation-contacts:hover, .navigation-studio:focus, 
+.navigation-studio:hover, .navigation-studio:focus, 
 .address-mail:focus, .address-tel:focus{
     color: #404bbf;
 }
