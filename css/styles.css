@@ -23,13 +23,13 @@ a {
     height: 72px;
 }
 .logo{
-    position: absolute;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16667;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
+    position: absolute;
     width: 115px;
     height: 24px;
     margin-left: 156px;
@@ -100,9 +100,9 @@ a {
 }
 /*main*/
 .solutions{
-    position: absolute;
     width: 1440px;
     height: 600px;
+    position: absolute;
     top: 72px;
     left: 0px;
     background-color: #2e2f42;
@@ -268,12 +268,75 @@ a {
 }
 /*Our Portfolio*/
 .portfolio{
-    
+    width: 1128px;
+    height: 1000px;
+    position: absolute;
+    top: 1868px;
+    left: 156px;
 }
 .title-portfolio{
-    
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
-
+.list-portfolio>li>h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+.list-portfolio>li>p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.banking{
+    width: 360px;
+    height: 420px;
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 112px;
+}
+.cashless{
+    width: 360px;
+    height: 420px;
+    position: absolute;
+    margin-left: 384px;
+    margin-top: 112px;
+}
+.meditation{
+    width: 360px;
+    height: 420px;
+    position: absolute;
+    margin-left: 768px;
+    margin-top: 112px;
+}
+.taxi{
+    width: 360px;
+    height: 420px;
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 580px;
+}
+.screen{
+    width: 360px;
+    height: 420px;
+    position: absolute;
+    margin-left: 384px;
+    margin-top: 580px;
+}
+.online{
+    width: 360px;
+    height: 420px;
+    position: absolute;
+    margin-left: 768px;
+    margin-top: 580px;
+}
 /*footer*/
 footer {
     background-color: #2e2f42;
