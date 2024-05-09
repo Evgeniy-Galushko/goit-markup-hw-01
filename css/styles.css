@@ -116,7 +116,7 @@ a {
     position: absolute;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -126,9 +126,11 @@ a {
     margin-top: 188px;
 }
 .order-button{
+    cursor: pointer;
     position: absolute;
     left: 636px;
     top: 356px;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -140,8 +142,8 @@ a {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5
 }
-.order-button:hover{
-    background-color: #404bbf;
+.order-button:hover, .order-button:focus{
+    background-color: #404BBF;
 }
 /*our qualities*/
 .qualities{
