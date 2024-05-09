@@ -91,9 +91,8 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }*/
-.address-mail:hover, .address-tel:hover,
-.navigation-studio:hover, .navigation-studio:focus, 
-.address-mail:focus, .address-tel:focus{
+.address-mail:hover, .navigation-studio:hover, 
+.navigation-studio:focus, .address-mail:focus{
     color: #404bbf;
 }
 .navigation-studio:active{
