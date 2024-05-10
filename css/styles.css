@@ -1,8 +1,8 @@
 .start{
     font-family: "Roboto", "Raleway", sans-serif;
     color: #2e2f42;
-    width: 1440px;
-    height: 3300px;
+    /*width: 1440px;
+    height: 3300px;*/
 }
 body{
     background-color: #fff;
@@ -74,8 +74,8 @@ a {
 .address-mail{
     letter-spacing: 0.02em;
     /*position: absolute;*/
-    margin-left: 940px;
-    margin-top: 24px;
+    /*margin-left: 940px;
+    margin-top: 24px;*/
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -116,8 +116,8 @@ color: #404bbf;
 }
 .effective-solutions{
     /*position: absolute;*/
-    font-weight: 700;
-    font-size: 56px;
+    /*font-weight: 700;
+    font-size: 56px;*/
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
@@ -138,8 +138,8 @@ color: #404bbf;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    border-radius: 4px;
-    /*width: 169px;
+    /*border-radius: 4px;
+    width: 169px;
     height: 56px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);*/
     background: #4d5ae5
@@ -210,9 +210,9 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    /*position: absolute;*/
+    /*position: absolute;
     margin-left: 639px;
-    margin-top: 120px;
+    margin-top: 120px;*/
 }
 .list-team>li>h3{
     font-weight: 500;
@@ -236,9 +236,9 @@ color: #404bbf;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);*/
     background: #fff;
     text-align: center;
-    /*position: absolute;*/
+    /*position: absolute;
     margin-left: 156px;
-    margin-top: 232px;
+    margin-top: 232px;*/
 }
 .tom{
     /*border-radius: 0 0 4px 4px;
@@ -248,9 +248,9 @@ color: #404bbf;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);*/
     background: #fff;
     text-align: center;
-    /*position: absolute;*/
+    /*position: absolute;
     margin-left: 444px;
-    margin-top: 232px;
+    margin-top: 232px;*/
 }
 .camila{
     /*border-radius: 0 0 4px 4px;
@@ -260,9 +260,9 @@ color: #404bbf;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);*/
     background: #fff;
     text-align: center;
-    /*position: absolute;*/
+    /*position: absolute;
     margin-left: 732px;
-    margin-top: 232px;
+    margin-top: 232px;*/
 }
 .daniel{
     /*border-radius: 0 0 4px 4px;
@@ -272,9 +272,9 @@ color: #404bbf;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);*/
     background: #fff;
     text-align: center;
-    /*position: absolute;*/
+    /*position: absolute;
     margin-left: 1020px;
-    margin-top: 232px;
+    margin-top: 232px;*/
 }
 /*Our Portfolio*/
 .portfolio{
@@ -310,44 +310,44 @@ color: #404bbf;
 .banking{
     /*width: 360px;
     height: 420px;
-    position: absolute;*/
+    position: absolute;
     margin-left: 0px;
-    margin-top: 112px;
+    margin-top: 112px;*/
 }
 .cashless{
     /*width: 360px;
     height: 420px;
-    position: absolute;*/
+    position: absolute;
     margin-left: 384px;
-    margin-top: 112px;
+    margin-top: 112px;*/
 }
 .meditation{
     /*width: 360px;
     height: 420px;
-    position: absolute;*/
+    position: absolute;
     margin-left: 768px;
-    margin-top: 112px;
+    margin-top: 112px;*/
 }
 .taxi{
     /*width: 360px;
     height: 420px;
-    position: absolute;*/
+    position: absolute;
     margin-left: 0px;
     margin-top: 580px;
-}
+}*/
 .screen{
     /*width: 360px;
     height: 420px;
-    position: absolute;*/
+    position: absolute;
     margin-left: 384px;
-    margin-top: 580px;
+    margin-top: 580px;*/
 }
 .online{
     /*width: 360px;
     height: 420px;
-    position: absolute;*/
+    position: absolute;
     margin-left: 768px;
-    margin-top: 580px;
+    margin-top: 580px;*/
 }
 /*footer*/
 .footers{
@@ -366,9 +366,9 @@ color: #404bbf;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    /*position: absolute;*/
+    /*position: absolute;
     margin-left: 156px;
-    margin-top: 100px;
+    margin-top: 100px;*/
 }
 .part-logo-footer{
     color: #f4f4fd;
@@ -379,9 +379,9 @@ color: #404bbf;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    /*position: absolute;*/
+    /*position: absolute;
     margin-left: 156px;
     margin-top: 140px;
-    /*width: 264px;
+    width: 264px;
     height: 72px;*/
 }
