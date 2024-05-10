@@ -91,9 +91,13 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }*/
-.address-mail:hover, .navigation-studio:hover, 
-.navigation-studio:focus, .address-mail:focus{
+.address-mail:hover, 
+.address-mail:focus{
     color: #404bbf;
+}
+.navigation-studio:hover, 
+.navigation-studio:focus{
+color: #404bbf;
 }
 .navigation-studio:active{
     color: #404bbf;
