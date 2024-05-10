@@ -91,12 +91,10 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }*/
-.address-mail:hover, 
-.address-mail:focus{
+.address-mail:hover{
     color: #404bbf;
 }
-.navigation-studio:hover, 
-.navigation-studio:focus{
+.navigation-studio:hover{
 color: #404bbf;
 }
 .navigation-studio:active{
