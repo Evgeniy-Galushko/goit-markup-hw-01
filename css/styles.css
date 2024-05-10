@@ -333,8 +333,8 @@ color: #404bbf;
     height: 420px;
     position: absolute;
     margin-left: 0px;
-    margin-top: 580px;
-}*/
+    margin-top: 580px;*/
+}
 .screen{
     /*width: 360px;
     height: 420px;
@@ -366,9 +366,9 @@ color: #404bbf;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    /*position: absolute;*/
+    /*position: absolute;
     margin-left: 156px;
-    margin-top: 100px;
+    margin-top: 100px;*/
 }
 .part-logo-footer{
     color: #f4f4fd;
@@ -379,9 +379,9 @@ color: #404bbf;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    position: absolute;
+    /*position: absolute;
     margin-left: 156px;
     margin-top: 140px;
     width: 264px;
-    height: 72px;
+    height: 72px;*/
 }
