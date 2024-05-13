@@ -7,12 +7,18 @@ body{
     font-family: "Roboto", sans-serif;
     color:#434455;
     line-height: 1.5;
+    width: 1440px;
+    height: 3300px;
+    margin: 0;
 }
 ul, ol{
     list-style-type: none;
 }
 a {
     text-decoration: none;
+}
+img{
+    display: block;
 }
 /* header */
 .pagt-header{
@@ -31,22 +37,18 @@ a {
     color: #2e2f42;
 }
 .navigation-list{
-    
+    display: flex;
+    gap: 40px;
 }
-.navigation-studio{
+.navigation-menu{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-/*.navigation-portfolio{
-    
-}
-.navigation-contacts{
-    
-}*/
-.address-mail{
+
+.contacts{
     letter-spacing: 0.02em;
     font-weight: 400;
     font-size: 16px;
@@ -56,19 +58,23 @@ a {
 /*.address-tel{
 
 }*/
-.address-mail:hover,
-.address-mail:focus{
+.contacts:hover,
+.contacts:focus{
     color: #404bbf;
 }
-.navigation-studio:hover, 
-.navigation-studio:focus{
+.navigation-menu:hover, 
+.navigation-menu:focus{
 color: #404bbf;
 }
-.navigation-studio:active{
+.navigation-menu:active{
     color: #404bbf;
 }
 .hom-address{
     font-style: normal;
+}
+.list-contacts{
+    display: flex;
+    gap: 40px;
 }
 /*main*/
 .solutions{
@@ -96,9 +102,10 @@ color: #404bbf;
     background-color: #404BBF;
 }
 /*our qualities*/
-.qualities{
-    
+.our{
+    display: none;
 }
+
 .list-qualities>li>h3{
     font-weight: 500;
     font-size: 20px;
@@ -113,23 +120,12 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.list-qualities>.strategy{
-    
-}
-.list-qualities>.punctuality {
-    
-}
-.list-qualities>.diligence {
-    
-}
-.list-qualities>.technologies {
-    
-}
+.
 /*Our Team*/
 .team{
-    
+    width: 1440px;
+    height: 732px;
     background-color: #f4f4fd;
-    
 }
 .team-our{
     font-weight: 700;
@@ -138,8 +134,7 @@ color: #404bbf;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
-    
+    color: #2e2f42;    
 }
 .list-team>li>h3{
     font-weight: 500;
@@ -155,24 +150,17 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.mark{
+.employees{
     background: #fff;
     text-align: center;
 }
-.tom{
-    background: #fff;
-    text-align: center;
-}
-.camila{
-    background: #fff;
-    text-align: center;
-}
-.daniel{
-    background: #fff;
-    text-align: center;
+.diligence 156px 120px 1020px;
 }
 /*Our Portfolio*/
-.portfolio{
+.list-portfolio{
+display: flex;
+gap: 24px;
+flex-wrap: wrap;
 
 }
 .title-portfolio{
